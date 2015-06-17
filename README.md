@@ -1,1 +1,1 @@
-# jTrackSeries
+# jTrackSeries [![Build Status](https://travis-ci.org/CristinaSilvaEng/jTrackSeries.svg?branch=master)](https://travis-ci.org/CristinaSilvaEng/jTrackSeries)
