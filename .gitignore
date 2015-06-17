@@ -1,0 +1,24 @@
+# IntelliJ #
+.idea/
+*.iml
+*.iws
+
+# Eclipse #
+.classpath
+.project
+.settings/
+
+#Binaries Files #
+*.class
+
+# Binaries Folders #
+out/
+target/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# Maven
+log/
