@@ -12,10 +12,7 @@ import java.io.PrintWriter;
  * Created by Cristina on 17/06/2015.
  */
 
-@WebServlet(
-        name = "HelloServlet",
-        urlPatterns = {"/HelloWorld"}
-)
+@WebServlet("/hello")
 public class HelloServlet extends HttpServlet {
 
     @Override
