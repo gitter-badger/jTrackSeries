@@ -10,7 +10,7 @@
 
         <!--<link rel='shortcut icon' type='image/x-icon' href='../favicon.ico' />-->
 
-        <title>jTrackSeries</title>
+        <title>jTrackSeries - Login</title>
 
         <link href="css/metro.min.css" rel="stylesheet">
         <link href="css/metro-icons.min.css" rel="stylesheet">
@@ -67,7 +67,7 @@
     </head>
     <body class="bg-darkTeal">
     <div class="login-form padding20 block-shadow">
-        <form>
+        <form method="post">
             <h1 class="text-light">Login to service</h1>
             <hr class="thin"/>
             <br />
@@ -87,7 +87,7 @@
             <br />
             <div class="form-actions">
                 <button type="submit" class="button primary">Login to...</button>
-                <button type="button" class="button link">Cancel</button>
+                <a type="button" class="button link" href="signup.jsp">Sign Up</a>
             </div>
         </form>
     </div>
