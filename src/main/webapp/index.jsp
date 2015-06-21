@@ -10,7 +10,7 @@
 
     <!--<link rel='shortcut icon' type='image/x-icon' href='../favicon.ico' />-->
 
-    <title>jTrackSeries - Login</title>
+    <title>jTrackSeries</title>
 
     <link href="css/metro.min.css" rel="stylesheet">
     <link href="css/metro-icons.min.css" rel="stylesheet">
